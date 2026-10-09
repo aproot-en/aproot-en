@@ -15,8 +15,8 @@ I also enjoy working on AI projects, learning new techniques, and sharing knowle
 
 ## 🔬 Research Interests
 
-- AI & DL & ML
-- Optimization Algorithms & Model Optimization
+- DL & ML
+- AI & Model Optimization
 - Computer Vision & VLA Models
 - RAG Systems & LLMs
 - Agentic AI & Intelligent Systems
