@@ -35,7 +35,7 @@ I also enjoy working on AI projects, learning new techniques, and sharing knowle
 ## 📚 Teaching Repositories
 
 - [Machine Learning Course](https://github.com/aproot-en/Machine-Learning-Course)
-- [Advanced Topics in Computer Software](https://github.com/aproot-en/Advanced-Topic-in-Computer-Software-Course)
+- [Advanced Topics in Computer Software Course](https://github.com/aproot-en/Advanced-Topic-in-Computer-Software-Course)
 
 ## 🔗 Academic Profiles
 
