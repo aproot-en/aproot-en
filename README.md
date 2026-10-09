@@ -1,17 +1,17 @@
 
 # Hi, I'm Anuruk Prommakhot 👋
 
-### Lecturer | Researcher | AI Engineer
-
-🏡 Sakon Nakhon, Thailand  
-📍 Pathum Thani, Thailand  
-🎓 Department of Computer Engineering, RMUTT
-
 ## 👨‍💻 About Me
 
 I am a lecturer and researcher who enjoys exploring new technologies, building AI models, and developing solutions for real-world problems. I am passionate about experimenting with new ideas and turning research into practical applications.
 
 I also enjoy working on AI projects, learning new techniques, and sharing knowledge with students through teaching, research, and hands-on projects.
+
+### Lecturer | Researcher | AI Engineer
+
+🏡 Sakon Nakhon, Thailand  
+📍 Pathum Thani, Thailand  
+🎓 Department of Computer Engineering, RMUTT
 
 ## 🔬 Research Interests
 
