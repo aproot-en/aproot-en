@@ -35,12 +35,6 @@ My research focuses on developing intelligent systems for medical image analysis
 - [Machine Learning Course](https://github.com/aproot-en/Machine-Learning-Course)
 - [Advanced Topics in Computer Software](https://github.com/aproot-en/Advanced-Topic-in-Computer-Software-Course)
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aproot-en&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aproot-en&layout=compact&theme=tokyonight)
-
 ## 🔗 Academic Profiles
 
 - [ORCID](https://orcid.org/0000-0003-1465-047X)
