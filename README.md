@@ -17,8 +17,8 @@ I also enjoy working on AI projects, learning new techniques, and sharing knowle
 - Artificial Intelligence & Deep Learning
 - Machine Learning & Optimization Algorithms
 - Computer Vision & Medical Image Analysis
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
+- Large Language Models
+- Retrieval-Augmented Generation
 - Agentic AI & Intelligent Systems
 
 ## 🛠️ Technical Skills
