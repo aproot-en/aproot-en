@@ -14,11 +14,10 @@ I also enjoy working on AI projects, learning new techniques, and sharing knowle
 
 ## 🔬 Research Interests
 
-- Artificial Intelligence & Deep Learning
-- Machine Learning & Optimization Algorithms
-- Computer Vision & Medical Image Analysis
-- Large Language Models
-- Retrieval-Augmented Generation
+- AI & Deep Learning
+- ML & Optimization Algorithms
+- Computer Vision & VLA Models
+- RAG Systems & LLMs
 - Agentic AI & Intelligent Systems
 
 ## 🛠️ Technical Skills
