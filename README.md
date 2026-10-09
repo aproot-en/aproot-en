@@ -8,17 +8,18 @@
 
 ## 👨‍💻 About Me
 
-I am a lecturer and researcher interested in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision. I enjoy exploring new AI technologies, developing models, and applying them to real-world problems.
+I am a lecturer and researcher who enjoys exploring new technologies, building AI models, and developing solutions for real-world problems. I am passionate about experimenting with new ideas and turning research into practical applications.
 
-My research interests include Optimization Algorithms, Machine Learning, Vision AI, Retrieval-Augmented Generation, and Agentic AI. I also enjoy working on AI projects and sharing knowledge with students.
+I also enjoy working on AI projects, learning new techniques, and sharing knowledge with students through teaching, research, and hands-on projects.
 
 ## 🔬 Research Interests
 
 - Artificial Intelligence & Deep Learning
+- Machine Learning & Optimization Algorithms
 - Computer Vision & Medical Image Analysis
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- AIoT & Intelligent Systems
+- Agentic AI & Intelligent Systems
 
 ## 🛠️ Technical Skills
 
