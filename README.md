@@ -21,7 +21,7 @@ I also enjoy working on AI projects, learning new techniques, and sharing knowle
 - RAG Systems & LLMs
 - Agentic AI & Intelligent Systems
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Tools 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -30,6 +30,7 @@ I also enjoy working on AI projects, learning new techniques, and sharing knowle
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📚 Teaching Repositories
 
