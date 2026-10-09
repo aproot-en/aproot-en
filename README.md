@@ -3,6 +3,7 @@
 
 ### Lecturer | Researcher | AI Engineer
 
+🏡 Hometown: Sakon Nakhon, Thailand
 📍 Pathum Thani, Thailand  
 🎓 Department of Computer Engineering, RMUTT
 
