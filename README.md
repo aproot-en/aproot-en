@@ -38,8 +38,10 @@ I also enjoy working on AI projects, learning new techniques, and sharing knowle
 
 ## 🔗 Academic Profiles
 
-- [ORCID](https://orcid.org/0000-0003-1465-047X)
-- [Kaggle](https://www.kaggle.com/aproot)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=Cx4u7bAAAAAJ&hl=en)
+- 🔬 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57216864857)
+- 🆔 [ORCID](https://orcid.org/0000-0003-1465-047X)
+- 📊 [Kaggle](https://www.kaggle.com/aproot)
 
 ---
 
