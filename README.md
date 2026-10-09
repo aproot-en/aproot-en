@@ -7,12 +7,11 @@ I am a lecturer and researcher who enjoys exploring new technologies, building A
 
 I also enjoy working on AI projects, learning new techniques, and sharing knowledge with students through teaching, research, and hands-on projects.
 
-🏡 Sakon Nakhon, Thailand  
-📍 Pathum Thani, Thailand  
+🏡 Hometown: Sakon Nakhon, Thailand  
+📍 Based in Pathum Thani, Thailand  
 🎓 Department of Computer Engineering, RMUTT, Thailand  
-🎓 Academic: [anuruk.p@en.rmutt.ac.th](mailto:anuruk.p@en.rmutt.ac.th)
-📧 Personal: [anuruk.pr@gmail.com](mailto:anuruk.pr@gmail.com)
-
+📨 Academic Email: [anuruk.p@en.rmutt.ac.th](mailto:anuruk.p@en.rmutt.ac.th)  
+📧 Personal Email: [anuruk.pr@gmail.com](mailto:anuruk.pr@gmail.com)
 
 ## 🔬 Research Interests
 
