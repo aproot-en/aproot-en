@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 
-I am a lecturer and researcher specializing in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision.
+I am a lecturer and researcher interested in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision. I enjoy exploring new AI technologies, developing models, and applying them to real-world problems.
 
-My research focuses on developing intelligent systems for medical image analysis, information retrieval, and real-world AI applications.
+My research interests include Optimization Algorithms, Machine Learning, Vision AI, Retrieval-Augmented Generation, and Agentic AI. I also enjoy working on AI projects and sharing knowledge with students.
 
 ## 🔬 Research Interests
 
