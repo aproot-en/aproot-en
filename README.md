@@ -3,9 +3,9 @@
 
 ## 👨‍💻 About Me
 
-I am a lecturer and researcher who enjoys exploring new technologies, building AI models, and developing solutions for real-world problems. I am passionate about experimenting with new ideas and turning research into practical applications.
+I'm a lecturer and researcher who enjoys working with AI, exploring new technologies, and building things that solve real-world problems.
 
-I also enjoy working on AI projects, learning new techniques, and sharing knowledge with students through teaching, research, and hands-on projects.
+I like experimenting with new models, trying out different ideas, and turning them into practical projects. I also enjoy learning new things and sharing what I've learned with my students.
 
 🏡 Sakon Nakhon, Thailand  
 📍 Pathum Thani, Thailand  
