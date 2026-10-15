@@ -13,7 +13,7 @@ I like experimenting with new models, trying out different ideas, and turning th
 📨 Academic Email: [anuruk.p@en.rmutt.ac.th](mailto:anuruk.p@en.rmutt.ac.th)  
 📧 Personal Email: [anuruk.pr@gmail.com](mailto:anuruk.pr@gmail.com)
 
-## 🔬 Research Interests
+## 🔬 Research Areas
 
 - DL & ML
 - AI & Model Optimization
