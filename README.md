@@ -3,9 +3,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a lecturer and researcher who enjoys working with AI, exploring new technologies, and building things that solve real-world problems.
+Lecturer by day, AI researcher by night… and professionally arguing with AI 24/7. 🤖💻
 
-I like experimenting with new models, trying out different ideas, and turning them into practical projects. I also enjoy learning new things and sharing what I've learned with my students.
+Eat. Sleep. Code. Debug. Repeat. ☕🚀
 
 🏡 Sakon Nakhon, Thailand  
 📍 Pathum Thani, Thailand  
