@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-Lecturer by day, AI researcher by night… and professionally arguing with AI 24/7. 🤖💻
+Lecturer by day, AI researcher by night… and arguing with AI 24/7. 🤖💻
 
 Eat. Sleep. Code. Debug. Repeat. ☕🚀
 
