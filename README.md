@@ -18,8 +18,7 @@ Eat. Sleep. Code. Debug. Repeat. ☕🚀
 - DL & ML
 - AI & Model Optimization
 - Computer Vision & VLA Models
-- RAG Systems & LLMs
-- Agentic AI & Intelligent Systems
+- RAG Systems & vLLM
 
 ## 🛠️ Tech Stack & Tools
 
